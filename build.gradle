@@ -32,6 +32,7 @@ buildscript {
 }
 
 
+
 //gradleLint {
   //rules  = ['dependency-parentheses','overridden-dependency-version','duplicate-dependency-class', 'all-dependency','unused-dependency']
 //}
