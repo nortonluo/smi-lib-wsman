@@ -10,7 +10,7 @@ apply plugin: 'maven'
 
 sourceCompatibility = 1.8
 version = "${version}"
-group = 'com.dell.isg.smi'
+group = 'com.github.nortonluo'
 archivesBaseName = "wsmanlib"
 ext.isReleaseVersion = !version.endsWith("SNAPSHOT")
 
